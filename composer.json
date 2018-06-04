@@ -1,5 +1,5 @@
 {
-    "name": "fredyna/mahasiswa",
+    "name": "septian97/data-mahasiswa",
     "type": "project",
     "authors": [
         {
@@ -11,6 +11,6 @@
     "require": {
         "phpunit/phpunit": "^6.5"
     },
-    "description": "Project UAS Semester 4"
+    "description": "Tugas UAS Semester 4"
 
 }
